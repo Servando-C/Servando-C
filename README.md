@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Servando-C
+- 👀 I’m interested in programming.
+- 🌱 I’m currently studying computer engineering.
+- 📫 How to reach me servando.carrasco@fi.unam.edu
